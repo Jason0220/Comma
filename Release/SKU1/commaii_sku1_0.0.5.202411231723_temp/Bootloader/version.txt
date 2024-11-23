@@ -1,0 +1,2 @@
+commaii_ota:0.0.2
+commaii_secure:0.0.1
